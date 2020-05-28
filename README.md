@@ -1,5 +1,5 @@
 # ASUS Prime Z390-P Hackintosh
-This setting works perfectly on macOS Catalina (10.15.4) with OpenCore 0.5.6.
+This setting works perfectly on macOS Catalina (10.15.5) with OpenCore 0.5.6.
 
 ## Hardware
 | Item | Brand | Model | Driver | Comment |
