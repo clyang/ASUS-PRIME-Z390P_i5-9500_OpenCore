@@ -1,5 +1,15 @@
 # ASUS Prime Z390-P Hackintosh
-This setting works perfectly on macOS Catalina (10.15.5) with OpenCore 0.5.6.
+This setting works perfectly on macOS Big Sur (11.2.1) with OpenCore 0.6.6.
+
+## Replace following keys with `GenSMBIOS` tool
+1. Open `OpenCore/EFI/OC` with [ProperTree](https://github.com/corpnewt/ProperTree)
+2. Modify the following keys with your own
+  * MLB
+  * ROM
+  * SystemSerialNumber
+  * SystemUUID
+
+**!!!! DONOT CHANGE `SystemProductName` !!!!!**
 
 ## Hardware
 | Item | Brand | Model | Driver | Comment |
