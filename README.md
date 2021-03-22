@@ -1,5 +1,5 @@
 # ASUS Prime Z390-P Hackintosh
-This setting works perfectly on macOS Big Sur (11.2.1) with OpenCore 0.6.6.
+This setting works perfectly on macOS Big Sur (11.2.3) with OpenCore 0.6.6.
 
 ## Replace following keys with `GenSMBIOS` tool
 1. Open `OpenCore/EFI/OC` with [ProperTree](https://github.com/corpnewt/ProperTree)
