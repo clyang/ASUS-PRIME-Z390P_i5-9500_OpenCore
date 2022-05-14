@@ -1,5 +1,5 @@
 # ASUS Prime Z390-P Hackintosh
-This setting works perfectly on macOS Monterey (12.0.1) with OpenCore 0.7.4.
+This setting works perfectly on macOS Monterey (12.0.1) with OpenCore 0.8.0 and latest KEXTs.
 
 ## Replace following keys with `GenSMBIOS` tool
 1. Open `OpenCore/EFI/OC` with [ProperTree](https://github.com/corpnewt/ProperTree)
